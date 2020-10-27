@@ -1,0 +1,330 @@
+         .background-image {
+         background: url("../img/toyamakanna-zAOouOtNcyw-unsplash.jpg");
+         background-size: cover;
+         width: 100vw;
+         height: 100vh;
+         position: relative;
+         top: 0px;
+         left: 0px;
+         }  
+         .background-cover {
+         background: rgba(0,0,0,.2);
+         height: 100vh; 
+         width: 100vw;
+         position: relative;
+         top: 0px;
+         left: 0px;
+         } 
+         .banner-caption {
+         margin: auto;
+         z-index: 9999;
+         text-align: center;
+         font-family: 'Barlow', sans-serif;
+         margin-top: 3em;
+         }
+         .banner-caption h1{
+         font-size: 5em;
+         }
+         .second-caption , .about-heading {
+         text-align: center;
+         margin: 4em auto;
+         font-family: 'Roboto', sans-serif;
+         }
+         .about-heading h2 {
+         margin: 1em auto;
+         font-weight: 700;
+         }
+         .second-caption h1, .about-heading h5 {
+         font-weight: 300;
+         }
+         #navbar-toggler{
+         background: transparent !important;
+         border: none!important;
+         padding: 5px !important;
+         }
+         .navbar-toggler:focus,
+         .navbar-toggler:active,
+         .navbar-toggler-icon:focus {
+         outline: none;
+         box-shadow: none;
+         }
+         #navbarSupportedContent1 h3{
+         margin-top: -1.5em;
+         width: 70%;
+         }
+         .icon-box-card {
+         background:   #FAFAFA;
+         min-height: 20em;
+         padding-top: .5em;
+         }
+         .about-section {
+         position: relative;
+         bottom:  0em;
+         width: 100%;
+         height: 100%;
+         }
+         .icon-holder i {
+         font-size: 3em;
+         }
+         .icon-box-heading {
+         margin: 1em;
+         padding-top: 1.4em;
+         padding-bottom: 2em;
+         padding-right: 2em;
+         padding-left: 2em;
+         text-align: center;
+         }
+         .icon-box-heading  h4{
+         margin: .5em auto .3em auto;
+         }
+         .container-custom {
+         width: 80%;
+         margin: auto;
+         }
+         .image-slider {
+         position: static;
+         width: 100%;
+         height: 100%;
+         }
+         /* Boostrap Buttons Styling */
+         .btn-default-c {
+         font-family: 'Roboto', sans-serif;
+         font-size: 1.2em;
+         color: white;
+         letter-spacing: .1em;
+         line-height: 1.2em;
+         border: 1px solid white;
+         border-radius: 40px;
+         background: transparent;
+         transition: all 0.3s ease 0s;
+         }
+         /* Boostrap Buttons Styling */
+         .input-default-c {
+         font-family: 'Roboto', sans-serif;
+         font-size: 1.2em;
+         color: white !important;
+         letter-spacing: .1em;
+         line-height: 1.2em;
+         border: 1px solid white;
+         border-top-left-radius: 40px !important;
+         border-bottom-left-radius: 40px !important;
+         background: transparent;
+         transition: all 0.3s ease 0s;
+         }
+         .btn-default-c:hover {
+         color: #FFF;
+         background: rgba(108, 88, 179, 0.75);
+         border: 2px solid rgba(108, 89, 179, 0.75);
+         }
+         .button-bottom {
+         margin-top: 25%;
+         margin-left: 2em;
+         }
+         .red-2 {
+         color: #8e0000 !important;
+         }
+         .ham-line {
+         width: 35px;
+         height: .15em;
+         background-color: white;
+         margin: .4em 0;
+         }
+         .image-slider {
+         margin-top: 8em;
+         }
+         .four-card-section { 
+         padding-top: 5em;
+         background: white;
+         }
+         .embed-text {
+         background: #000033;
+         height: 100%; 
+         width: 100%;
+         }
+         .four-cards {
+         margin-top: 4em;
+         padding-bottom: 7em;
+         }
+         .dark-four-btn {
+         float: right;
+         padding-right: 5em;
+         }
+         .four-car-img {
+         position: relative;
+         left: 1.4em;
+         bottom: 1em;
+         }
+         .car-footer-b {
+         margin-top: 1.6em;
+         }
+         .dark-blue-gray {
+         background: #263238 !important;
+         }
+         .card-5 {
+         box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22) !important;
+         margin: .5em;
+         background:   #FAFAFA;
+         }
+         .row-top {
+         margin-bottom: .5em;
+         }
+         .contact-us {
+         margin-top: 0px;
+         background: url(../img/knt-jFLXeurQ2QA-unsplash.jpg);
+         background-size: cover;
+         object-fit: cover;
+         height: 30em;
+         }
+         .contact-us-text {
+         position: relative;
+         top: 7em;
+         padding-left: 5em;
+         padding-right: 5em;
+         }
+         .blog-section {
+         padding-top: 4em;
+         }
+         .blog-articles {
+         margin-top: 5em;
+         }
+         .blog-articles .card {
+         height: 30em;
+         }
+         .img-top {
+         height: 20em;
+         }
+         .img-top img{
+         max-height: 100%;
+         }
+         .card-top-img {
+         width: 100%;
+         height: 18vw !important;
+         object-fit: cover;
+         }
+         .row-bottom{
+         margin-top: 5em;
+         }
+         .dark-blue-link {
+         color: #0b0b36 !important;
+         }
+         .footer {
+         margin-top: 10em;
+         height: 30em;
+         position: relative;
+         top: 0px;
+         left: 0px;
+         }
+         .footer-bottom {
+         background: #1b2226;
+         }
+         .newsletter {
+         width: 30%
+         }         
+         .vertical-center {
+         margin: 0 auto;
+         position: absolute;
+         top: 35%;
+         -ms-transform: translateY(-50%);
+         transform: translateY(-50%);
+         left: 50%;
+         transform: translateX(-50%);
+         }
+         .social-links a {
+         font-size: 18px;
+         display: inline-block;
+         background: transparent;
+         color: #fff;
+         line-height: 1;
+         padding: 8px 0;
+         margin-right: 4px;
+         border-radius: 50%;
+         text-align: center;
+         width: 50px !important;
+         height: 50px !important
+         }
+         @media screen and (max-width: 1422px) {
+         .icon-box-card {
+         padding: 0px;
+         }
+         .icon-box-heading {
+         margin: .3em;
+         padding-top: 1.2em;
+         padding-bottom: 2em;
+         padding-right: .5em;
+         padding-left: .5em;
+         }
+         }
+         @media screen and (max-width: 1200px) {
+         .button-bottom {
+         margin-top: 5%;
+         margin-left: 2em;
+         margin-bottom: 3em;
+         }
+         .icon-box-card {
+         margin-bottom: 2em;
+         min-height: 10em;
+         }
+         .icon-box-heading {
+         padding: 2px !important;
+         margin:  4px !important;
+         }
+         .bolg-articles .card {
+         margin-bottom: 5em;
+         }
+         .bolg-articles .card img {
+         height: 100% !important;
+         }
+         .row-bottom{
+         margin-top: 0em;
+         }
+         }
+         @media screen and (max-width: 1199px) {
+         .icon-box-card {
+         margin-bottom: 2em;
+         min-height: 10em;
+         }
+         .icon-box-heading {
+         margin-right: 0em;
+         margin-left: 0em;
+         margin-top: .5em;
+         padding-top: 1.2em;
+         padding-bottom: 1em;
+         }
+         }
+         @media screen and (max-width: 1662px) {
+         .container-custom{
+         width: 90%;
+         }
+         }
+         @media screen and (max-width: 1199px) {
+         .icon-box-heading {
+         padding-right: 2em !important;
+         padding-left: 2em !important;
+         }
+         }
+         @media screen and (max-width: 1230px) {
+         .carousel-item img {
+         min-height: 100% !important;
+         object-fit: cover;
+         }
+         }
+         @media screen and (max-width: 1258px) {
+         .contact-us .col-md-6{
+         min-width: 100% !important;
+         }
+         }
+         @media screen and (max-width: 1114px) {
+         .newsletter {
+         width: 60%
+         } 
+         }
+         @media screen and (max-width: 615px) {
+         .newsletter {
+         width: 80%
+         } 
+         }
+         @media screen and (max-width: 893px) {
+         .dark-four-btn .fa-angle-double-right{
+         display: none;
+         }
+         }
